@@ -1,9 +1,9 @@
 [[LLVMBootstrap]]
 arch = "x86_64"
-git-tree-sha1 = "15fc44968ddfde74f5a185a76218f448fb4bf9f4"
+git-tree-sha1 = "514046a7c4d3e115f01209288b08c561401aa1c2"
 libc = "musl"
 os = "linux"
 
     [[LLVMBootstrap.download]]
-    sha256 = "ee559d28ef7bb5f76fd860d53f1b76ab030bbe95c932f276707b6736a1111b71"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMBootstrap_jll.jl/releases/download/LLVMBootstrap-v7.1.0+0/LLVMBootstrap.v7.1.0.x86_64-linux-musl.tar.gz"
+    sha256 = "f86ac774493435c7bf3362bf596c782c886ec0e55b45e459dc846fe08a03a234"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMBootstrap_jll.jl/releases/download/LLVMBootstrap-v8.0.1+0/LLVMBootstrap.v8.0.1.x86_64-linux-musl.tar.gz"
