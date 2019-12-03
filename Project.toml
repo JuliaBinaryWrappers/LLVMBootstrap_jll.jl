@@ -1,6 +1,6 @@
 name = "LLVMBootstrap_jll"
 uuid = "db172ae1-73ad-59d9-bc09-d7dba05a9256"
-version = "6.0.1+0"
+version = "7.1.0+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
